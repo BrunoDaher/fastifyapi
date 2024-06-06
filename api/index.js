@@ -23,14 +23,14 @@ const html = `
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
     />
-    <title>Vercel + Fastify Hello World</title>
+    <title>Teste de API</title>
     <meta
       name="description"
       content="This is a starter template for Vercel + Fastify."
     />
   </head>
   <body>
-    <h1>Vercel + Fastify Hello World</h1>
+    <h1>Vercel + Teste de API</h1>
     <p>
       This is a starter template for Vercel + Fastify. Requests are
       rewritten from <code>/*</code> to <code>/api/*</code>, which runs
